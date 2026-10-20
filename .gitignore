@@ -1,0 +1,40 @@
+
+# Configurações e segredos
+.env
+.env.*
+!.env.example
+secrets.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Backups
+*.bak
+*.old
+
+
+
+### arquivos
+
+layout.pptx
+Prototipo.txt
+
+
+
