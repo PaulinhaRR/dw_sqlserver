@@ -2,14 +2,14 @@
 
 
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto apresenta a construção simples de um Data Warehouse para uma clínica odontológica, com dados sintéticos, com o objetivo de organizar
 dados operacionais e transformá-los em informações para análise e apoio.
 A solução utilizada SQL Server para estruturar os bancos de dados e realizar a carga dos dados para o DW, além do Power Bi para uma demonstração de um
 dashboard analítico.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 - Modelar um banco de dados pequeno operacional e um Data Warehouse.
 - Organizar os dados em dimensões e tabelas fato.
