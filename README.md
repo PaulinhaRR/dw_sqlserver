@@ -17,14 +17,14 @@ dashboard analítico.
 - Desenvolver indicadores e visualização no Power BI
 - Analisar o faturamento, o volume de consultas e o desempenho da clínica.
   
- 🛠️ Tecnologias utilizadas
+ ## 🛠️ Tecnologias utilizadas
 
   - Microsoft SQL Server
   - SQL
   - Power BI
   - Git
 
-🏗️ Arquitetura da solução
+## 🏗️ Arquitetura da solução
 
 O projeto esta organizado em duas partes principais:
 
@@ -52,7 +52,7 @@ Tabela Fato:
 - FatoProcedimento
 
 
-📊 Dashboard no Power BI
+## 📊 Dashboard no Power BI
 
 -O relatório permite analisar indicadores como:
 - Faturamento total
@@ -62,7 +62,7 @@ Tabela Fato:
 - Distribuição das consultas por status
 
 
-🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
 Instale o Microsoft SQL Server e uma ferramenta para executar scripts SQL, como o SQL Server Management Studio (SSMS).
 Execute o script Estrutura_banco_OLTP.sql para criar a estrutura do banco operacional.
